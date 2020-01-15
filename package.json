@@ -1,0 +1,9 @@
+{
+  "name": "node-watermark",
+  "version": "1.0",
+  "description": "add watermark to the photos",
+  "main": "index.js",
+  "repository": "https://github.com/pcwitcher/node-watermark.git",
+  "author": "Jarosław Mazur <pcwitcher.ie@gmail.com>",
+  "license": "MIT"
+}
