@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/pcwitcher/node-watermark.git",
   "author": "Jarosław Mazur <pcwitcher.ie@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
 }
